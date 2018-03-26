@@ -7,7 +7,7 @@ a simple ROS app that make dobot move if you speak a certain command
 ```
 open a new terminal and go into your ws
 ```
-  cd devel/lib/app
+  cd devel/lib/app (not rosrun)
   ./audioStart
 ```
 Have Fun :-)
