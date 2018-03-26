@@ -22,3 +22,6 @@ Have Fun :-)
   * DOWN make the dobot turn down his arm
   * SIT DOWN the dobot return to his initial position
   * STOP turn off the app
+# Dependencies
+  * arecord from alsa-utils(```$ sudo apt-get install alsa-utils ```)
+  * autosub (```pip install autosub```)
