@@ -1,0 +1,8 @@
+prefix=/home/giulio/ws/devel
+
+Name: responsor
+Description: Description of responsor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/giulio/ws/devel/lib 
+Requires: 
